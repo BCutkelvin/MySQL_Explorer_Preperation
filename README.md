@@ -1,65 +1,49 @@
-# 1Z0_880-Preperation
+```
+as of 6/13/23...
+```
+# 1Z0_880-Preparation
 
-USE/PURPOSE: Creating this repository to demonstrate proof of concepts: studying, learning, exercsies and demonstrate profiency of using MySQL. 
+USE/PURPOSE: Creating this repository to demonstrate proof of concepts: studying, learning, exercises and demonstrate proficiency of using MySQL.
+
 
 ## Description
 
 Utilizing:
 Oracle official training and certification resources: "MySQL Explorer" and "Oracle Certified Professional - MySQL 8.0 Database Administrator 1Z0-908". 
 
-Have officially compelted and earned MySQL Explorer Certification: https://www.linkedin.com/posts/bryancutkelvin_mysql-explorer-activity-7068853606938021888-as17?utm_source=share&utm_medium=member_desktop
+Have officially completed and earned MySQL Explorer Certification: 
+[MySQL Explorer Certification](https://www.linkedin.com/posts/bryancutkelvin_mysql-explorer-activity-7068853606938021888-as17?)
 
 ## Getting Started
--MySQL 8.0 (macOS 13 (x86, 64-bit), DMG Archive	8.0.33; mysql-8.0.33-macos13-x86_64.dmg))
--MySQL Workbench 8.0 (mysql-workbench-community-8.0.32-macos-x86_64.dmg)
+
+* MySQL 8.0 (macOS 13 (x86, 64-bit), DMG Archive	8.0.33; mysql-8.0.33-macos13-x86_64.dmg))
+* MySQL Workbench 8.0 (mysql-workbench-community-8.0.32-macos-x86_64.dmg)
 
 ### Dependencies
-*macOS Monterey, Version 12.6.6 (21G646) 
+
+* macOS Monterey, Version 12.6.6 (21G646) 
 
 ### Installing
+* where to download programs:
+    * [MySQL :: Getting Started with MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/)
+    * [mysql download site](https://dev.mysql.com/downloads/mysql/)
+    * [mysql install macos](https://dev.mysql.com/doc/refman/8.0/en/macos-installation-pkg.html)
+    * [MySQL :: MySQL Workbench Manual :: 2 Installation](https://dev.mysql.com/doc/workbench/en/wb-installing.html)
+    * [MYSQL WORKBENCH](https://dev.mysql.com/downloads/file/?id=516921)
+    * [MySQL :: Download MySQL Workbench (Archived Versions)](https://downloads.mysql.com/archives/workbench/)
+    * [world database download](https://dev.mysql.com/doc/index-other.html)
 
-* How/where to download your program
 * Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+   *[MySql workbench is crashing | Apple Developer Forums](https://developer.apple.com/forums/thread/724378)
 
 ## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+   * [MySQL Explorer - Oracle MyLearn](https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674)
+   * [Oracle Education](https://learn.oracle.com/education/html/ols4/pre-login.html?redir=https%3A%2F%2Flearn.oracle.com%2Fords%2Ftraining%2Fdl4_activation.activateOrder%3Fkey%3D74B32BC3954F742B%26debug_yn%3DN%26destination%3D)
+   * [Home - Oracle MyLearn](https://mylearn.oracle.com/ou/home)
+   * [Oracle Contacts](https://www.oracle.com/corporate/contact/)
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+[Bryan Cutkelvin LinkedIn](https://www.linkedin.com/in/bryancutkelvin/)
