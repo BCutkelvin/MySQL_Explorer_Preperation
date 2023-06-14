@@ -1,0 +1,4 @@
+SELECT Name
+FROM country
+ORDER BY Name
+LIMIT 4;
