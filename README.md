@@ -1,7 +1,7 @@
 ```
-as of 6/13/23...
+as of 6/14/23...
 ```
-# 1Z0_880-Preparation
+# MySQL Explorer Preparation
 
 USE/PURPOSE: Creating this repository to demonstrate proof of concepts: studying, learning, exercises and demonstrate proficiency of using MySQL.
 
