@@ -41,6 +41,7 @@ Have officially completed and earned MySQL Explorer Certification:
    * [MySQL Explorer - Oracle MyLearn](https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674)
    * [Oracle 
 Education](https://learn.oracle.com/education/html/ols4/pre-login.html?redir=https%3A%2F%2Flearn.oracle.com%2Fords%2Ftraining%2Fdl4_activation.activateOrder%3Fkey%3D74B32BC3954F742B%26debug_yn%3DN%26destination%3D)
+   * [Oracle Education](https://learn.oracle.com/education/html/ols4/pre-login.html?redir=https%3A%2F%2Flearn.oracle.com%2Fords%2Ftraining%2Fdl4_activation.activateOrder%3Fkey%3D74B32BC3954F742B%26debug_yn%3DN%26destination%3D)
    * [Home - Oracle MyLearn](https://mylearn.oracle.com/ou/home)
    * [Oracle Contacts](https://www.oracle.com/corporate/contact/)
 
@@ -49,4 +50,3 @@ Education](https://learn.oracle.com/education/html/ols4/pre-login.html?redir=htt
 Contributors names and contact info
 
 [Bryan Cutkelvin LinkedIn](https://www.linkedin.com/in/bryancutkelvin/)
-
