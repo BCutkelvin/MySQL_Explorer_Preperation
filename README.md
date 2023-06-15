@@ -9,7 +9,7 @@ USE/PURPOSE: Creating this repository to demonstrate proof of concepts: studying
 ## Description
 
 Utilizing:
-Oracle official training and certification resources: "MySQL Explorer" and "Oracle Certified Professional - MySQL 8.0 Database Administrator 1Z0-908". 
+Oracle official training and certification resources: "MySQL Explorer". 
 
 Have officially completed and earned MySQL Explorer Certification: 
 [MySQL Explorer Certification](https://www.linkedin.com/posts/bryancutkelvin_mysql-explorer-activity-7068853606938021888-as17?)
